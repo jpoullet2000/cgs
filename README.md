@@ -9,3 +9,5 @@ This project contains different modules that are related to each other but still
 - **cgs-benchmarks**: this modules presents different benchmark studies that have been performed using this system (CGS).
 
 This project has been initiated within the BridgeIris project funded by [Innoviris](http://www.innoviris.be). 
+
+Note that this project is at a very infant stage.
