@@ -1,6 +1,8 @@
 # The **CGS** project
 The **CGS** project stands for Centralized genomics system. The goal of this project is to offer a big data infrastructure for genomics data, and in particular for variant information.
 
+!
+
 This project contains different modules that are related to each other but still can be used independently (up to some extent). Here are the modules available as github repositories:
 
 - [**cgs-data**](https://github.com/jpoullet2000/cgs-data): this package defines how the data are built in this project, in particular how to upload variant information (VCF) in HBase, how to build a corresponding table in the metastore that will be accessible by tools like Hive, Impala, etc, allowing you to make SQL-like requests on your database. This also allows you to parametrize security on HBase (on column families, or even on HBASE cells).   
