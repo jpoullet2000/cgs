@@ -2,6 +2,7 @@
 The **CGS** project stands for Centralized genomics system. The goal of this project is to offer a big data infrastructure for genomics data, and in particular for variant information.
 
 ![CGS project](images/cgs-architecture.png)
+<embed src="images/cgs-architecture.svg" type="image/svg+xml" />
 
 This project contains different modules that are related to each other but still can be used independently (up to some extent). Here are the modules available as github repositories:
 
